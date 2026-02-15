@@ -12,10 +12,8 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darkha03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=darkha03&theme=dark&hide_border=false)<br/>
-
-### 💻 Languages Used:
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darkha03&theme=dark)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=darkha03&theme=dark&hide_border=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darkha03&theme=dark)<br/>
 
 
 ---

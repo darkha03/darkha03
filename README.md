@@ -4,7 +4,7 @@
 🎓 Computer Science student at INSA Centre Val de Loire<br>
 💻 I create apps to respond to my needs and stay consistent<br>
 🌱 I’m currently learning DevOps and Machine Learning<br>
-⚡ Fun fact : I watch esport and movies to entertain myself
+⚡ Fun fact : My hobbies are sports (include esports ^^) and movies
 
 
 ### 💻 Tech Stack:
